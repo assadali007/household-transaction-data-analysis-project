@@ -12,4 +12,4 @@ Analysis of household financial transactions to identify spending patterns, budg
 ## 🛠 Tools & Technologies
 - **Python**: Pandas, NumPy (Data Cleaning & Analysis)
 - **Visualization**: Matplotlib,
-- **Notebook**: Jupyter Lab/Google Colab
+- **Notebook**: Jupyter Lab
